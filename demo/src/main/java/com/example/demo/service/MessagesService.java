@@ -5,7 +5,7 @@ import com.example.demo.domain.ChatMessage;
 
 import java.util.List;
 
-public class MessageService {
+public class MessagesService {
     private List<ChatMessage> chatMessages;
 
     public void addMessage(ChatForm chatForm) {
